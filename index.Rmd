@@ -1,6 +1,6 @@
 --- 
-title: "Faylab Lab Manual"
-author: "Gavin Fay & Ashleigh Novak"
+title: "Laskowski Lab Manual"
+author: "Kate Laskowski, et al"
 date: "Last updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
