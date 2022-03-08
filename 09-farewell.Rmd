@@ -1,6 +1,6 @@
 # Departing the Laskowski Lab {#farewell}
 
-All good things must come to an end and eventually you will move on from the Laskowski Lab. To ensure that critical data is saved appropriately, and projects can continue smoothly, it’s important that your departure is well planned for.
+All good things must come to an end and eventually you will move on from the Laskowski Lab. To ensure that critical data is appropriately saved, and projects can continue smoothly, it’s important that your departure is well planned for.
 
 * All data files and/or samples need to be appropriately labeled, including with detailed meta-data. Tell/show Kate and the lab manager where these files or samples are located.
 * Lab notebooks should be complete and will be left in the lab (you are welcome to take photos/scans with you).
