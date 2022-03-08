@@ -1,0 +1,32 @@
+Protecting the data we collect is critical as it is the entire point of our lab existing. Our lab does science in as transparent, reproducible and rigorous way as possible. That is, you should conduct every step of your research as if someone is looking over your shoulder and be ready to justify why you did things the way you did, and bring the receipts to show that you did exactly what you said you did. The goal is to 1) document exactly how every piece of data was initially collected, 2) analyze those data transparently so that someone else could reproduce the exact same results if given your data and analyses and 3) publicly deposit all the evidence of this process.
+
+* _Lab notebooks_:
+  + Keep a lab notebook. Every Amazon Warrior is required to have a hardcopy paper lab notebook. Anything that has to do with an experiment you run should be documented here.
+  + Pages should be dated and written in ink. Write down details of the experimental planning, scheduling, behavioral assay protocols, a priori hypotheses, outline of the projected steps of the analysis. Trust me, you will forget details and you may need to reference them after months or (several) years.
+  + The purpose of the lab notebook is to not only help you remember details of what you did and why months or potentially years late, but also as solid proof that we did the things the way we said we did.
+  + Know that at any moment, Kate may ask to see your lab notebook and she will expect it to be up to date, complete and well organized.
+  + Organize your lab notebook well – use tabs to start new sections. Write legibly. Keep a blank page at the beginning to fill in with Table of Contents.
+  + These lab notebooks should never be thrown out and will stay in the lab when you leave.
+* _Experimentation_:
+  + Take photos of experimental set-ups. These are necessary for our own records, but also useful for presentations down the road.
+  + Create a schedule for every experiment. This will be especially useful if multiple people are collecting data and/or the experiment is staggered over time. Even if you are the only one collecting data, make a document showing what data are being collected on what days. This can be done in your lab notebook or in an online format (but always print out the schedule and then paste it in your lab notebook).
+  + If behavioral data will be collected in the main fish room or you need to use the molecular room/cryostat, then this needs to be listed on the lab calendar. We will discuss scheduling at the start of each quarter to make sure that everyone has access to the space and limit any conflicts between simultaneous experiments.
+* _Data handling & analysis_:
+  + All data *must* be saved on the Laskowski Lab Box. Save it in your folder and use intuitive and clear file naming practices.
+  + The Box is backed up but make sure to save your data somewhere else too – either locally on your own hard drive, or an external hard drive. The more copies the better (ask Kate about how she lost an entire summer’s worth of data if you don’t believe this happens).
+  + After your raw data is collected, it’s critical that you keep track of every step from data cleaning to analysis to final results. At a bare minimum you need to keep a copy of the “raw” data in an un-corruptible format (this can be paper data sheets, saved images of stained brains and/or a pdf version of a digital excel file).
+  + All data cleaning/transformations should be done in R and using version control – never write over datafiles but ‘save as’ and append the date in the format e.g. “Data_project_YYYYMMDD.csv”
+  + Final data analysis should be compiled in an Rmarkdown file that reproduces exactly the results that go in the paper.
+* _File management_:
+  + Managing all the files related to a single project is difficult. It is important to use intuitive and informative names for your files and to organize them well in different subfolders.
+  + For each project create a folder with an informative name within your folder on Box. It is useful to create sub-folders for each major step of a project; a potential organization is listed below.
+
+* _Project Name_
+  + _Design_ – includes any schedules, diagrams, predictions etc you generated when you were designing the experiment
+  + _Raw Data_ – includes the raw data, meta-data, and the saved ‘incorruptible’ formats. Once data is put in here it should not be handled again
+  + _Analysis_ – includes the data file that you will perform data cleaning and analysis on. All R files, R Markdown files and figures can be saved here
+  + _Manuscript_ – all files related to writing up your manuscript. Always a good idea to append the date (YYYYMMDD) to help keep track of manuscript versions
+  + _Old files_ – this is optional, but I am loathe to delete just about any file in case you find you need it later. Instead I put all old files into a folder like this to keep.
+
+* _Public deposit_:
+  + All data and analysis files will be publicly deposited when the paper is published.
