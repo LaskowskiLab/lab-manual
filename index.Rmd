@@ -11,7 +11,7 @@ github-repo: LaskowskiLab/lab-manual
 description: "This is the Laskowski Lab Manual"
 ---
 
-## Lab Values and Expectations
+**Lab Values and Expectations**
 
 Welcome to the Laskowski Lab!
 
@@ -20,7 +20,7 @@ We are excited to have you as part of the Amazon Warrior team! We strive to buil
 
 Each person in the lab plays an important role in contributing both to the science we do and the culture we strive to maintain. Each person in the lab is expected to read this manual – it provides useful information on how things are done in the lab, useful resources and expectations of all lab members.
 
-## TLDR: This manual will give lots of important details but essentially:
+**TLDR: This manual will give lots of important details but essentially:**
 -Don't be a jerk
 -Don't fabricate/fudge/alter data
 
