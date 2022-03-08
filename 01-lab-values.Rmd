@@ -1,0 +1,25 @@
+# Lab Values and Culture {#values}
+
+The Laskowski Lab is committed to creating a culture that actively recruits and supports people of diverse racial, ethnic, sexuality, gender, socioeconomic, and other backgrounds. We strive to create an environment that is free of bias, discrimination, and bigotry; an environment that promotes anti-racist thinking and actions; and an environment where all members are comfortable with speaking out and are dedicated to self-improvement.
+
+We believe that a healthy, inclusive lab culture is built on three principles: communication, education, and action.
+
+
+## Communication
+
+* Our lab emphasizes clear and timely communication. Speak up about small difficulties before they become big problems. We strive to promote a supportive environment where people are comfortable giving and receiving constructive criticism. We want all members to feel empowered to call out discriminatory language or actions (be they intentional or unintentional); it is understood that a simple “that’s not cool” is a quick signal that some language is inappropriate. We work under the assumption of good intent in our interactions with others, but will own the impact of our actions.
+* We also support lab members in calling out discriminatory practices outside of our lab, as we believe this is a critical first step in uprooting entrenched racism, ableism, homophobia, trans-phobia, and bigotry in our community.
+
+## Education
+* We are dedicated to constantly improving our allyship and we believe that education is an essential part of self-improvement. Our lab is committed to maintaining an evolving library of required anti-racist and anti-discriminatory readings (see ‘resources’ channel in the lab Slack). This library also contains relevant resources on reporting discrimination and improving diversity in academia.
+* We commit to attending regular anti-racist, anti-bias, and bystander intervention trainings. We promote attendance and participation in diversity-focused activities such as journal clubs and anti-racist panels at conferences. We also encourage members to regularly identify, examine, and challenge our existing biases through self-reflection and reading broadly.
+
+## Action
+* We believe that taking action within academia and the Davis community are essential to combating bias. We strongly encourage all lab members to participate in outreach and activism. As a young lab, the Laskowski Lab is still laying the foundation for our long-term DEI efforts. However, we are committed to the following:
+   + Creation of a Course-based Undergraduate Research Experience to provides hands-on research experience to Davis undergrads
+   + The creation of long-term science outreach programs with local middle and high schools.
+   + Development of summer support for research collaborations with HBCUs and MSIs.
+   + Graduate student participation in existing graduate group DEI efforts.
+   + Whenever possible, paying undergraduate students.
+   + Intentional, diversity-minded approach to lab recruitment.
+
