@@ -1,5 +1,3 @@
-lab-values-and-expectations
-tldr-this-manual-will-give-lots-of-important-details-but-essentially
 values
 communication
 education
