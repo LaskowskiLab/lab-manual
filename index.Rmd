@@ -11,7 +11,7 @@ github-repo: LaskowskiLab/lab-manual
 description: "This is the Laskowski Lab Manual"
 ---
 
-Lab Values and Expectations
+# Lab Values and Expectations
 
 Welcome to the Laskowski Lab!
 
