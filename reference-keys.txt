@@ -1,4 +1,5 @@
-welcome
+lab-values-and-expectations
+tldr-this-manual-will-give-lots-of-important-details-but-essentially
 intro
 how-we-meet
 how-we-give-feedback
