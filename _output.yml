@@ -3,8 +3,8 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Faylab manual</a></li>
-        <li><a href="http://www.thefaylab.com">← Back to thefaylab.com</a></i>
+        <li><a href="./">Laskowski Lab Manual</a></li>
+        <li><a href="https://laskowskilab.faculty.ucdavis.edu/">← Back to Laskowski Lab Site</a></i>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     download: ["pdf"]
