@@ -1,0 +1,9 @@
+# Departing the Laskowski Lab {#farewell}
+
+All good things must come to an end and eventually you will move on from the Laskowski Lab. To ensure that critical data is saved appropriately, and projects can continue smoothly, it’s important that your departure is well planned for.
+
+* All data files and/or samples need to be appropriately labeled, including with detailed meta-data. Tell/show Kate and the lab manager where these files or samples are located.
+* Lab notebooks should be complete and will be left in the lab (you are welcome to take photos/scans with you).
+* All project files should be well organized (as described above) including a final ‘README’ file that gives the broad overview of the status of the project (if leaving before a project is published).
+* Turn in keys to the EVE main office.
+* Give Kate your new contact info so we can get in touch in case we have questions about the project and because we want to know what fun new things you are working on!
